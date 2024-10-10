@@ -1,7 +1,7 @@
 Pipeline {
     Agent {
         Node {
-            Label 'built-in'
+            Label 'MASTER'
         }
     }
 
