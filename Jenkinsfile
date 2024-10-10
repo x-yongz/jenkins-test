@@ -6,7 +6,7 @@ Pipeline {
     }
 
     Tools {
-        Maven 'maven3'
+        maven 'maven3'
     }
 
     Options {
