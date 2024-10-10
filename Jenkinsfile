@@ -1,7 +1,7 @@
 Pipeline {
     Agent {
         Node {
-            Label 'MASTER'
+            label 'MASTER'
         }
     }
 
