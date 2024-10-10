@@ -1,7 +1,7 @@
 Pipeline {
     Agent {
         Node {
-            Label 'SLAVE01'
+            Label 'built-in'
         }
     }
 
